@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://anfa2091.github.io/goit-js-hw-10.git"
+    "url": "git+https://sharontravisi.github.io/goit-js-hw-10.git"
   },
   "keywords": [],
   "author": "Sharon Travisi <sharonltravisi@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anfa2091/goit-js-hw-10/issues"
+    "url": "https://github.com/sharontravisi/goit-js-hw-10/issues"
   },
   "dependencies": {
     "lodash.debounce": "^4.0.8",
